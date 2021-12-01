@@ -1,0 +1,2 @@
+# affiliate-blocks
+Affiliate blocks
